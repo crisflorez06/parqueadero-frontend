@@ -1,6 +1,6 @@
 # Parqueadero - Frontend de Gestión
 
-Una interfaz de usuario moderna y reactiva para la **gestión de parqueaderos**, que consume los servicios del [Parqueadero Backend](https://github.com/tu-usuario/parqueadero_backend). Permite a los operarios controlar entradas, salidas, y visualizar el estado del parqueadero en tiempo real.
+Una interfaz de usuario moderna y reactiva para la **gestión de parqueaderos**, que consume los servicios del [Parqueadero Backend](https://github.com/crisflorez06/parqueadero-backend). Permite a los operarios controlar entradas, salidas, y visualizar el estado del parqueadero en tiempo real.
 Construido como una Single-Page Application (SPA) con **Angular**, el proyecto está diseñado para ser intuitivo y eficiente.
 
 ---
